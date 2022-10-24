@@ -1,6 +1,6 @@
 # Test-Scenario
 
-The goal is to learn to write Test Scenario and Test Cases.
+The goal is to learn how to write test scenarios and test cases very well.
 
 
 TC_Forgot_Your_Password
