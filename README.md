@@ -11,3 +11,13 @@ TC_Forgot_Your_Password
 TC_Login_Page
 
 TC_Pagination
+
+
+
+Dokument zawiera:
+1. ID
+2. Pisitive path lub Negative path
+3. Summary
+4. Preconditions
+5. Step Actions
+6. Expected Results
